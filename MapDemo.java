@@ -45,6 +45,7 @@ class MapDemo
 		{
 			Map.Entry m1=(Map.Entry)itr.next();
 			System.out.println(m1.getKey()+"....."+m1.getValue());
+			System.out.println("hello how are you");
 		}
 	}
 }
